@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_CohesionAssessment_CohesionAssessmentUITests : NSObject
+@end
+@implementation PodsDummy_Pods_CohesionAssessment_CohesionAssessmentUITests
+@end

@@ -1,0 +1,6 @@
+framework module Pods_CohesionAssessment_CohesionAssessmentUITests {
+  umbrella header "Pods-CohesionAssessment-CohesionAssessmentUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

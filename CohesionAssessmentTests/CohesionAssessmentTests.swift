@@ -48,6 +48,7 @@ class CohesionAssessmentTests: XCTestCase {
         viewControllerUnderTest = nil
         
         super.tearDown()
+        
     }
 
     func testExample() throws {

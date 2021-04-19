@@ -10,6 +10,7 @@ import MapKit
 import CoreLocation
 import CoreData
 import UserNotifications
+import FirebaseCrashlytics
 
 class ViewController: UIViewController {
 
@@ -59,6 +60,8 @@ class ViewController: UIViewController {
     }
 
     func setupGeofenceForCohesion() {
+        
+//        Crashlytics.crashlytics()
         
         let geofenceRegionCenter =
             CLLocationCoordinate2DMake(Cohesion_Lat, Cohesion_Lon)
